@@ -101,7 +101,7 @@
 			(pin no_connect line
 				(at -20.32 5.08 0)
 				(length 3.81)
-				(name "NC"
+				(name "1"
 					(effects
 						(font
 							(size 0.508 0.508)
@@ -119,7 +119,7 @@
 			(pin passive line
 				(at -20.32 2.54 0)
 				(length 3.81)
-				(name "T_JTDI"
+				(name "2"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -137,7 +137,7 @@
 			(pin passive line
 				(at -20.32 0 0)
 				(length 3.81)
-				(name "T_JTMS/SWDIO"
+				(name "3"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -155,7 +155,7 @@
 			(pin passive line
 				(at -20.32 -2.54 0)
 				(length 3.81)
-				(name "T_JCLK/SWCLK"
+				(name "4"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -173,7 +173,7 @@
 			(pin passive line
 				(at -20.32 -5.08 0)
 				(length 3.81)
-				(name "T_JTDO/SWO"
+				(name "5"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -191,7 +191,7 @@
 			(pin passive line
 				(at 20.32 5.08 180)
 				(length 3.81)
-				(name "GND"
+				(name "6"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -209,7 +209,7 @@
 			(pin passive line
 				(at 20.32 2.54 180)
 				(length 3.81)
-				(name "T_VCP_RX"
+				(name "7"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -227,7 +227,7 @@
 			(pin passive line
 				(at 20.32 0 180)
 				(length 3.81)
-				(name "T_VCP_TX"
+				(name "8"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -245,7 +245,7 @@
 			(pin passive line
 				(at 20.32 -2.54 180)
 				(length 3.81)
-				(name "T_NRST"
+				(name "9"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -263,7 +263,7 @@
 			(pin passive line
 				(at 20.32 -5.08 180)
 				(length 3.81)
-				(name "T_VCC"
+				(name "10"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -380,7 +380,7 @@
 			(pin no_connect line
 				(at -20.32 5.08 0)
 				(length 3.81)
-				(name "NC"
+				(name "1"
 					(effects
 						(font
 							(size 0.508 0.508)
@@ -398,7 +398,7 @@
 			(pin passive line
 				(at -20.32 2.54 0)
 				(length 3.81)
-				(name "T_JTDI"
+				(name "2"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -416,7 +416,7 @@
 			(pin passive line
 				(at -20.32 0 0)
 				(length 3.81)
-				(name "T_JTMS/SWDIO"
+				(name "3"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -434,7 +434,7 @@
 			(pin passive line
 				(at -20.32 -2.54 0)
 				(length 3.81)
-				(name "T_JCLK/SWCLK"
+				(name "4"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -452,7 +452,7 @@
 			(pin passive line
 				(at -20.32 -5.08 0)
 				(length 3.81)
-				(name "T_JTDO/SWO"
+				(name "5"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -470,7 +470,7 @@
 			(pin passive line
 				(at 20.32 5.08 180)
 				(length 3.81)
-				(name "GND"
+				(name "6"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -488,7 +488,7 @@
 			(pin passive line
 				(at 20.32 2.54 180)
 				(length 3.81)
-				(name "T_VCP_RX"
+				(name "7"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -506,7 +506,7 @@
 			(pin passive line
 				(at 20.32 0 180)
 				(length 3.81)
-				(name "T_VCP_TX"
+				(name "8"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -524,7 +524,7 @@
 			(pin passive line
 				(at 20.32 -2.54 180)
 				(length 3.81)
-				(name "T_NRST"
+				(name "9"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -542,7 +542,7 @@
 			(pin passive line
 				(at 20.32 -5.08 180)
 				(length 3.81)
-				(name "T_VCC"
+				(name "10"
 					(effects
 						(font
 							(size 1.27 1.27)
